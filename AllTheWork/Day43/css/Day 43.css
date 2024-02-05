@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.frame {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    overflow: hidden;
+    background-color: #404554;
+    height: 400px;
+    width: 400px;
+    border-radius: 7px;
+    box-shadow: 4px 8px 16px 0 rgba(0,0,0,0.4);
+}
+
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 250px;
+}
+
+
+.bulb {
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%);
+}
+
+
+.base{
+    position: absolute;
+    left: 50%;
+    top: 59.5%;
+    transform: translate(-50%);
+}
+
+
+svg.bulb {
+    fill: #fff35c;
+}
+
+
+svg.base {
+    fill: #e5e5e5;
+}
+
+.light{
+    position: absolute;
+    z-index: -1;
+    border-radius: 50%;
+    width: 35px;
+    height: 45px;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow:  0 0 45px 30px rgba(255,243,92,0.75);
+    transition: box-shadow 0.5s ease-out;
+}
+
+
+svg.bulb:hover+.light{
+    box-shadow: 0 0 45px 30px rgba(255,243,92,0);
+    transition: box-shadow 0.5s ease-out;;
+}
+
+svg.bulb:hover{
+    fill: #8c8f99;
+    transition: fill 0.5s ease-in-out;
+}
+
+
+
+
+
