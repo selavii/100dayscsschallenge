@@ -3,12 +3,12 @@
 
 ### 1✅
 ![image](https://github.com/selavii/100dayscsschallenge/assets/114013280/7ae7c106-cc25-4ade-a6ca-1b069d90c931)
-
 ### 2
 ### 3
 ### 4
 ### 5
 ### 6✅
+![image](https://github.com/selavii/100dayscsschallenge/assets/114013280/40247776-c336-43e6-92a1-339b35f84789)
 ### 7
 ### 8
 ### 9
@@ -17,6 +17,8 @@
 ### 12
 ### 13
 ### 14✅
+![image](https://github.com/selavii/100dayscsschallenge/assets/114013280/a6d30d96-78a8-4daf-b9f8-3fefb461c64c)
+![image](https://github.com/selavii/100dayscsschallenge/assets/114013280/bd4b54f6-bbe3-4f89-9787-87c7170277a7)
 ### 15
 ### 16
 ### 17
@@ -46,6 +48,8 @@
 ### 41
 ### 42
 ### 43✅
+![image](https://github.com/selavii/100dayscsschallenge/assets/114013280/98ef1e95-3506-4c4c-bf96-1228fd89722a)
+
 ### 44
 ### 45
 ### 46
