@@ -2,6 +2,8 @@
 ## This repository will contain all of the 100 days css challenge tried by me.
 
 ### 1✅
+![image](https://github.com/selavii/100dayscsschallenge/assets/114013280/7ae7c106-cc25-4ade-a6ca-1b069d90c931)
+
 ### 2
 ### 3
 ### 4
