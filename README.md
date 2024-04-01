@@ -49,7 +49,6 @@
 ### 42
 ### 43✅
 ![image](https://github.com/selavii/100dayscsschallenge/assets/114013280/98ef1e95-3506-4c4c-bf96-1228fd89722a)
-
 ### 44
 ### 45
 ### 46
@@ -103,7 +102,8 @@
 ### 94
 ### 95
 ### 96
-### 97
+### 97✅
+![image](https://github.com/selavii/100dayscsschallenge/assets/114013280/b25ceed0-6fa6-4c97-99dd-13f87545f598)
 ### 98
 ### 99
 ### 100
